@@ -5,3 +5,4 @@ dist/
 *.js.map
 *.test.js
 .dev-coverage
+app.log

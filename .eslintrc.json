@@ -16,6 +16,7 @@
   },
   "ignorePatterns": ["*.d.ts", "*.js", "/tests/*", "/dist/*", "/docs/*"],
   "rules": {
+    "no-warning-comments": "error",
     "no-use-before-define": "off",
     "@typescript-eslint/no-use-before-define": "error",
     "no-unused-expressions": "off",
